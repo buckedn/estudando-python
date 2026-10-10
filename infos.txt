@@ -1,0 +1,3 @@
+macarrao - R$200 - quantidade: 200
+feijao - R$6 - quantidade: 200
+arozz - R$12 - quantidade: 333
